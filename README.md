@@ -1,0 +1,2 @@
+# Smithy
+Just another repository
